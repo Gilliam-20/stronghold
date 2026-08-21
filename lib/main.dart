@@ -23,7 +23,7 @@ class StrongholdApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'STRONGHOLD',
+      title: 'Stronghold',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.dark,
       initialRoute: AppRoutes.home,
